@@ -13,6 +13,7 @@
     <artifactId>springboot-crm-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot-crm-service</name>
+    <packaging>war</packaging>
     <description>CRM Service Spring Boot Application</description>
     <properties>
         <java.version>18</java.version> <!-- Set Java version to 18 -->
